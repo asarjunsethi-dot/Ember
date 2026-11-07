@@ -172,17 +172,218 @@
       {
         "id": "plane_04",
         "category": "plane",
-        "model": "aircraft/plane_04/Plane04-9.obj",
-        "material": "aircraft/plane_04/Plane04-9.mtl",
-        "palette": "aircraft/plane_04/Plane04-9.png",
         "source": "aircraft/plane_04/Plane04-9.vox",
-        "vertices": 388,
-        "faces": 348,
+        "vertices": 29317,
+        "faces": 23744,
         "size_xyz": [
-          0.8,
-          2.2,
-          0.7
-        ]
+          28.6,
+          8.0,
+          7.8
+        ],
+        "parts": [
+          {
+            "model": "aircraft/plane_04/Plane04-0.obj",
+            "material": "aircraft/plane_04/Plane04-0.mtl",
+            "palette": "aircraft/plane_04/Plane04-0.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-1.obj",
+            "material": "aircraft/plane_04/Plane04-1.mtl",
+            "palette": "aircraft/plane_04/Plane04-1.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-2.obj",
+            "material": "aircraft/plane_04/Plane04-2.mtl",
+            "palette": "aircraft/plane_04/Plane04-2.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-3.obj",
+            "material": "aircraft/plane_04/Plane04-3.mtl",
+            "palette": "aircraft/plane_04/Plane04-3.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-4.obj",
+            "material": "aircraft/plane_04/Plane04-4.mtl",
+            "palette": "aircraft/plane_04/Plane04-4.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-5.obj",
+            "material": "aircraft/plane_04/Plane04-5.mtl",
+            "palette": "aircraft/plane_04/Plane04-5.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-6.obj",
+            "material": "aircraft/plane_04/Plane04-6.mtl",
+            "palette": "aircraft/plane_04/Plane04-6.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-7.obj",
+            "material": "aircraft/plane_04/Plane04-7.mtl",
+            "palette": "aircraft/plane_04/Plane04-7.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-8.obj",
+            "material": "aircraft/plane_04/Plane04-8.mtl",
+            "palette": "aircraft/plane_04/Plane04-8.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-9.obj",
+            "material": "aircraft/plane_04/Plane04-9.mtl",
+            "palette": "aircraft/plane_04/Plane04-9.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-10.obj",
+            "material": "aircraft/plane_04/Plane04-10.mtl",
+            "palette": "aircraft/plane_04/Plane04-10.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-11.obj",
+            "material": "aircraft/plane_04/Plane04-11.mtl",
+            "palette": "aircraft/plane_04/Plane04-11.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-12.obj",
+            "material": "aircraft/plane_04/Plane04-12.mtl",
+            "palette": "aircraft/plane_04/Plane04-12.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-13.obj",
+            "material": "aircraft/plane_04/Plane04-13.mtl",
+            "palette": "aircraft/plane_04/Plane04-13.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-14.obj",
+            "material": "aircraft/plane_04/Plane04-14.mtl",
+            "palette": "aircraft/plane_04/Plane04-14.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-15.obj",
+            "material": "aircraft/plane_04/Plane04-15.mtl",
+            "palette": "aircraft/plane_04/Plane04-15.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-16.obj",
+            "material": "aircraft/plane_04/Plane04-16.mtl",
+            "palette": "aircraft/plane_04/Plane04-16.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-17.obj",
+            "material": "aircraft/plane_04/Plane04-17.mtl",
+            "palette": "aircraft/plane_04/Plane04-17.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-18.obj",
+            "material": "aircraft/plane_04/Plane04-18.mtl",
+            "palette": "aircraft/plane_04/Plane04-18.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-19.obj",
+            "material": "aircraft/plane_04/Plane04-19.mtl",
+            "palette": "aircraft/plane_04/Plane04-19.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-20.obj",
+            "material": "aircraft/plane_04/Plane04-20.mtl",
+            "palette": "aircraft/plane_04/Plane04-20.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-21.obj",
+            "material": "aircraft/plane_04/Plane04-21.mtl",
+            "palette": "aircraft/plane_04/Plane04-21.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-22.obj",
+            "material": "aircraft/plane_04/Plane04-22.mtl",
+            "palette": "aircraft/plane_04/Plane04-22.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-23.obj",
+            "material": "aircraft/plane_04/Plane04-23.mtl",
+            "palette": "aircraft/plane_04/Plane04-23.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-24.obj",
+            "material": "aircraft/plane_04/Plane04-24.mtl",
+            "palette": "aircraft/plane_04/Plane04-24.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-25.obj",
+            "material": "aircraft/plane_04/Plane04-25.mtl",
+            "palette": "aircraft/plane_04/Plane04-25.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-26.obj",
+            "material": "aircraft/plane_04/Plane04-26.mtl",
+            "palette": "aircraft/plane_04/Plane04-26.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-27.obj",
+            "material": "aircraft/plane_04/Plane04-27.mtl",
+            "palette": "aircraft/plane_04/Plane04-27.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-28.obj",
+            "material": "aircraft/plane_04/Plane04-28.mtl",
+            "palette": "aircraft/plane_04/Plane04-28.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-29.obj",
+            "material": "aircraft/plane_04/Plane04-29.mtl",
+            "palette": "aircraft/plane_04/Plane04-29.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-30.obj",
+            "material": "aircraft/plane_04/Plane04-30.mtl",
+            "palette": "aircraft/plane_04/Plane04-30.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-31.obj",
+            "material": "aircraft/plane_04/Plane04-31.mtl",
+            "palette": "aircraft/plane_04/Plane04-31.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-32.obj",
+            "material": "aircraft/plane_04/Plane04-32.mtl",
+            "palette": "aircraft/plane_04/Plane04-32.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-33.obj",
+            "material": "aircraft/plane_04/Plane04-33.mtl",
+            "palette": "aircraft/plane_04/Plane04-33.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-34.obj",
+            "material": "aircraft/plane_04/Plane04-34.mtl",
+            "palette": "aircraft/plane_04/Plane04-34.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-35.obj",
+            "material": "aircraft/plane_04/Plane04-35.mtl",
+            "palette": "aircraft/plane_04/Plane04-35.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-36.obj",
+            "material": "aircraft/plane_04/Plane04-36.mtl",
+            "palette": "aircraft/plane_04/Plane04-36.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-37.obj",
+            "material": "aircraft/plane_04/Plane04-37.mtl",
+            "palette": "aircraft/plane_04/Plane04-37.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-38.obj",
+            "material": "aircraft/plane_04/Plane04-38.mtl",
+            "palette": "aircraft/plane_04/Plane04-38.png"
+          },
+          {
+            "model": "aircraft/plane_04/Plane04-39.obj",
+            "material": "aircraft/plane_04/Plane04-39.mtl",
+            "palette": "aircraft/plane_04/Plane04-39.png"
+          }
+        ],
+        "part_count": 40,
+        "note": "Multi object export: 40 separate OBJ parts that together form one plane. Import all parts and keep their positions."
       },
       {
         "id": "plane_05",
