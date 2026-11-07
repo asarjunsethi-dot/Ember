@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "assets": {
+    "buildings": [
+      {
+        "id": "tiny_building_01",
+        "category": "tiny",
+        "model": "buildings/tiny_building_01/TinyBuilding01.obj",
+        "material": "buildings/tiny_building_01/TinyBuilding01.mtl",
+        "palette": "buildings/tiny_building_01/TinyBuilding01.png",
+        "source": "buildings/tiny_building_01/TinyBuilding01.vox",
+        "vertices": 2279,
+        "faces": 2142,
+        "size_xyz": [
+          1.9,
+          4.8,
+          2.8
+        ]
+      },
+      {
+        "id": "small_building_01",
+        "category": "small",
+        "model": "buildings/small_building_01/SmallBuilding01.obj",
+        "material": "buildings/small_building_01/SmallBuilding01.mtl",
+        "palette": "buildings/small_building_01/SmallBuilding01.png",
+        "source": "buildings/small_building_01/SmallBuilding01.vox",
+        "vertices": 5350,
+        "faces": 5620,
+        "size_xyz": [
+          2.8,
+          4.6,
+          3.4
+        ]
+      },
+      {
+        "id": "small_building_02",
+        "category": "small",
+        "model": "buildings/small_building_02/SmallBuilding02.obj",
+        "material": "buildings/small_building_02/SmallBuilding02.mtl",
+        "palette": "buildings/small_building_02/SmallBuilding02.png",
+        "source": "buildings/small_building_02/SmallBuilding02.vox",
+        "vertices": 6028,
+        "faces": 5518,
+        "size_xyz": [
+          2.8,
+          6.0,
+          3.3
+        ]
+      },
+      {
+        "id": "large_building_01",
+        "category": "large",
+        "model": "buildings/large_building_01/LargeBuilding01.obj",
+        "material": "buildings/large_building_01/LargeBuilding01.mtl",
+        "palette": "buildings/large_building_01/LargeBuilding01.png",
+        "source": "buildings/large_building_01/LargeBuilding01.vox",
+        "vertices": 9054,
+        "faces": 10192,
+        "size_xyz": [
+          8.8,
+          4.1,
+          4.6
+        ]
+      },
+      {
+        "id": "tall_building_01",
+        "category": "tall",
+        "model": "buildings/tall_building_01/TallBuilding01.obj",
+        "material": "buildings/tall_building_01/TallBuilding01.mtl",
+        "palette": "buildings/tall_building_01/TallBuilding01.png",
+        "source": "buildings/tall_building_01/TallBuilding01.vox",
+        "vertices": 6765,
+        "faces": 5952,
+        "size_xyz": [
+          2.4,
+          8.0,
+          3.4
+        ]
+      }
+    ]
+  }
+}
