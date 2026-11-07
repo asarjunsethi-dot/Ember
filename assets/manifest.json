@@ -76,6 +76,83 @@
           8.0,
           3.4
         ]
+      },
+      {
+        "id": "small_building_03",
+        "category": "small",
+        "model": "buildings/small_building_03/SmallBuilding03.obj",
+        "material": "buildings/small_building_03/SmallBuilding03.mtl",
+        "palette": "buildings/small_building_03/SmallBuilding03.png",
+        "source": "buildings/small_building_03/SmallBuilding03.vox",
+        "vertices": 4496,
+        "faces": 4060,
+        "size_xyz": [
+          3.4,
+          3.8,
+          2.4
+        ]
+      },
+      {
+        "id": "small_building_04",
+        "category": "small",
+        "model": "buildings/small_building_04/SmallBuilding04.obj",
+        "material": "buildings/small_building_04/SmallBuilding04.mtl",
+        "palette": "buildings/small_building_04/SmallBuilding04.png",
+        "source": "buildings/small_building_04/SmallBuilding04.vox",
+        "vertices": 4315,
+        "faces": 3980,
+        "size_xyz": [
+          2.8,
+          5.9,
+          3.3
+        ]
+      },
+      {
+        "id": "tall_building_02",
+        "category": "tall",
+        "model": "buildings/tall_building_02/TallBuilding02.obj",
+        "material": "buildings/tall_building_02/TallBuilding02.mtl",
+        "palette": "buildings/tall_building_02/TallBuilding02.png",
+        "source": "buildings/tall_building_02/TallBuilding02.vox",
+        "vertices": 9007,
+        "faces": 8300,
+        "size_xyz": [
+          2.8,
+          10.0,
+          3.4
+        ]
+      }
+    ],
+    "aircraft": [
+      {
+        "id": "plane_01",
+        "category": "plane",
+        "model": "aircraft/plane_01/Plane01.obj",
+        "material": "aircraft/plane_01/Plane01.mtl",
+        "palette": "aircraft/plane_01/Plane01.png",
+        "source": "aircraft/plane_01/Plane01.vox",
+        "vertices": 6730,
+        "faces": 5508,
+        "size_xyz": [
+          7.0,
+          1.5,
+          7.8
+        ]
+      },
+      {
+        "id": "plane_03",
+        "category": "plane",
+        "model": "aircraft/plane_03/Plane_03.obj",
+        "material": "aircraft/plane_03/Plane_03.mtl",
+        "palette": "aircraft/plane_03/Plane_03.png",
+        "source": "aircraft/plane_03/Plane_03.vox",
+        "vertices": 8290,
+        "faces": 6930,
+        "size_xyz": [
+          8.0,
+          1.4,
+          7.8
+        ]
       }
     ]
   }
