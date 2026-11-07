@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ember City</title>
+  <style>
+    html, body { margin: 0; height: 100%; overflow: hidden; background: #a9c9e8; font-family: system-ui, sans-serif; }
+    #hud {
+      position: fixed; top: 12px; left: 12px; padding: 10px 12px; border-radius: 8px;
+      background: rgba(20, 24, 32, 0.78); color: #f2f2f2; font-size: 13px; line-height: 1.5;
+    }
+    #hud button, #hud input { font: inherit; }
+    #hud input { width: 80px; }
+    #status { opacity: 0.8; }
+  </style>
+</head>
+<body>
+  <div id="hud">
+    <div><strong>Ember City</strong></div>
+    <label>Seed <input id="seed" type="number" /></label>
+    <button id="regen">Build</button>
+    <button id="random">Random</button>
+    <div id="status">Loading models…</div>
+    <div>Drag to orbit, scroll to zoom, right drag to pan</div>
+  </div>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
