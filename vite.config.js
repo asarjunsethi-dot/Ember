@@ -4,6 +4,8 @@ import { defineConfig } from 'vite';
 // so manifest paths such as "buildings/x/x.obj" resolve from the site root.
 export default defineConfig({
   root: 'city',
+  // Relative base so the build works at a sub path such as username.github.io/Ember/.
+  base: './',
   publicDir: '../assets',
   build: { outDir: '../dist', emptyOutDir: true },
 });

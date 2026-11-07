@@ -41,8 +41,8 @@ async function loadBuildings(manifest) {
   const entries = manifest.assets.buildings;
   const models = await Promise.all(entries.map(async (b) => {
     const [obj, tex] = await Promise.all([
-      objLoader.loadAsync('/' + b.model),
-      texLoader.loadAsync('/' + b.palette),
+      objLoader.loadAsync(b.model),
+      texLoader.loadAsync(b.palette),
     ]);
     tex.magFilter = THREE.NearestFilter;
     tex.minFilter = THREE.NearestFilter;
@@ -146,7 +146,7 @@ window.addEventListener('resize', () => {
 renderer.setAnimationLoop(() => { controls.update(); renderer.render(scene, camera); });
 
 try {
-  const manifest = await (await fetch('/manifest.json')).json();
+  const manifest = await (await fetch('manifest.json')).json();
   lib = await loadBuildings(manifest);
   build(Number(new URLSearchParams(location.search).get('seed')) || 1);
 } catch (err) {
