@@ -140,6 +140,21 @@
         ]
       },
       {
+        "id": "plane_02",
+        "category": "plane",
+        "model": "aircraft/plane_02/Plane02.obj",
+        "material": "aircraft/plane_02/Plane02.mtl",
+        "palette": "aircraft/plane_02/Plane02.png",
+        "source": "aircraft/plane_02/Plane02.vox",
+        "vertices": 7594,
+        "faces": 6550,
+        "size_xyz": [
+          6.5,
+          2.3,
+          5.6
+        ]
+      },
+      {
         "id": "plane_03",
         "category": "plane",
         "model": "aircraft/plane_03/Plane_03.obj",
@@ -152,6 +167,51 @@
           8.0,
           1.4,
           7.8
+        ]
+      },
+      {
+        "id": "plane_04",
+        "category": "plane",
+        "model": "aircraft/plane_04/Plane04-9.obj",
+        "material": "aircraft/plane_04/Plane04-9.mtl",
+        "palette": "aircraft/plane_04/Plane04-9.png",
+        "source": "aircraft/plane_04/Plane04-9.vox",
+        "vertices": 388,
+        "faces": 348,
+        "size_xyz": [
+          0.8,
+          2.2,
+          0.7
+        ]
+      },
+      {
+        "id": "plane_05",
+        "category": "plane",
+        "model": "aircraft/plane_05/Plane05.obj",
+        "material": "aircraft/plane_05/Plane05.mtl",
+        "palette": "aircraft/plane_05/Plane05.png",
+        "source": "aircraft/plane_05/Plane05.vox",
+        "vertices": 10741,
+        "faces": 8774,
+        "size_xyz": [
+          7.0,
+          3.3,
+          6.6
+        ]
+      },
+      {
+        "id": "plane_06",
+        "category": "plane",
+        "model": "aircraft/plane_06/Plane_06.obj",
+        "material": "aircraft/plane_06/Plane_06.mtl",
+        "palette": "aircraft/plane_06/Plane_06.png",
+        "source": "aircraft/plane_06/Plane_06.vox",
+        "vertices": 4093,
+        "faces": 3320,
+        "size_xyz": [
+          7.6,
+          1.2,
+          6.6
         ]
       }
     ]
